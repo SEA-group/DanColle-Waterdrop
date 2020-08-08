@@ -1,10 +1,15 @@
-﻿# 水滴 / Water Drop
+﻿# [AP only] The Three-Body Problem: Water Drop / 三体：水滴
 
-======================Presented by SEA group======================
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Water-Drop?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Water-Drop)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Water-Drop)
 
-Installation: 
-Copy "content" into /res_mods/a.b.c.d(current version)/
+AP shell model modification
 
-安装：
-将content复制到/res_mods/a.b.c.d(当前客户端版本号)/
+## Installation
+* **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/[version number]/`
+* **For Steam users**, copy `content` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
+## 使用方法
+* **WG游戏中心用户**请把`content`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/[版本号]/`里面
+* **Steam客户端用户**请把`content`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
