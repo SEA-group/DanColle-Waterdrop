@@ -1,10 +1,10 @@
-﻿# [AP only] The Three-Body Problem: Water Drop / 三体：水滴
+﻿# The Three-Body Problem: Waterdrop / 三体：水滴
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Water-Drop?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Water-Drop)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Water-Drop)
 
-AP shell model modification
+Shell model modification
 
 ## Installation
 * **For WGC users**, copy `content` into `[WoWS folder]/bin/[largest number]/res_mods/`
